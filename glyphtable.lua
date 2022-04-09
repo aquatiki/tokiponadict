@@ -53,22 +53,18 @@ function group(line)
 wid = 10			-- Maximum columns
 
 -- Output all the words
-group("Circles ijo jan lawa kili ma mama mani wawa meli\
-mije tonsi moli nasa sike suno tenpo toki kokosila lape nimi\
-palisa misikeke lukin")
-group("D alasa kalama uta")
-group("Six mi ona sina")
-group("Squares lipu len sona sitelen pu pakala\
-monsi sinpin anpa insa poka open poki leko")
-group("Straight a o kin lon nasin epiku ni pini taso nanpa wan\
-sama tu mute meso sin namako seli supa selo sijelo")
-group("Angles ala ante weka anu e li suli lili utala\
-monsuta pan en lete ken pi kipisi")
-group("Triangles kule laso loje walo jelo pimeja")
-group("Curves ale ike pona la kon telo jasima kute linja\
-musi nena lupa seme tan wile")
-group("Hand luka kepeken pana pali moku")
+group("Circles ijo lawa isipin kili ma mani nasa sike suno tenpo nimi samu palisa misikeke lukin")
+group("People jan wawa meli mije mama tonsi moli toki kokosila lape kulupu apeja")
+group("Ds alasa kalama uta kuntu ")
+group("Sixes mi ona sina")
+group("Squares lipu len linluwi sona sitelen pu ku pakala leko")
+group("Boxes monsi sinpin anpa insa poka ete open poki ")
+group("Straights a o n wa kin lon powe nasin epiku ni pini taso nanpa wan po san sama tu mute meso sin namako majuna seli supa selo sijelo")
+group("Angles kiki ala ante weka anu e li suli lili utala monsuta pan en lete ken pi kipisi te to yupekosi")
+group("Triangles kule laso loje walo kapesi jelo unu pimeja mulapisu")
+group("Curves ale ike pona la kon telo jasima kute linja musi nena lupa seme tan wile")
+group("Hands luka kepeken pana pali moku")
 group("Feet noka awen tawa kama")
-group("Animals akesi kala pipi waso soweli suwi mu kijetesantakalu")
-group("Squiggles unpa lanpan jaki esun sewi jo kasi")
-group("Other olin pilin mun ko kiwen tomo ilo kulupu oko soko")
+group("Animals akesi kala pipi sutopatikuna  waso soweli suwi misa mu kijetesantakalu ")
+group("Squiggles unpa lanpan jaki esun sewi jo kasi waleja")
+group("Pictograms olin pilin mun ko kiwen tomo ilo oko soko")
